@@ -63,7 +63,7 @@ Coursera, IBM Skills Network "Introduction to data science" [Certificate](https:
 ## Languages
 ---
 
-Belarussian - Native speaker
-Russian - Native speaker
-English - Advanced
-German - Pre-Intermediate (A2)
+* Belarussian - Native speaker
+* Russian - Native speaker
+* English - Advanced
+* German - Pre-Intermediate (A2)
