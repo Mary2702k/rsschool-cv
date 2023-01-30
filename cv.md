@@ -32,7 +32,7 @@ _I've been working as a molecular oncologist for 6 years. A great part of my wor
 ## Experience
 ---
 
-[CV#1. Markdown & Git](https://github.com/Mary2702k/rsschool-cv/blob/gh-pages/cv.md)
+CV#1. Markdown & Git
 
 ## Education
 ---
