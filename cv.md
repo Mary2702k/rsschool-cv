@@ -11,20 +11,20 @@
 ---
 _I've been working as a molecular oncologist for 6 years. A great part of my work was dedicated to scientific research, were I learnt about different IT technologies. I was fascinated and  now I want to challenge myself and get a new occupation as a Frontend Developer._
 
-###My strenghts:
-  Research and experiments
-  Project management
-  Data collection
-  A team worker
-  Willing to learn
+### My strenghts:
+* Research and experiments
+* Project management
+* Data collection
+* A team worker
+* Willing to learn
   
 
 ## Skills
 ---
-  HTML
-  CSS
-  JavaScript
-  Git
+* HTML
+* CSS
+* JavaScript
+* Git
 
 ## Code example
 ---
@@ -39,22 +39,22 @@ CV#1. Markdown & Git
 
 Sep 2008 – Jun 2014 
 Belarussian State Medical University
-Minsk, Belarus
+Minsk, Belarus,
 Bachelor of Medicine
 
 Sep 2013 – Jun 2015 
 Streamline
-Minsk, Belarus
+Minsk, Belarus,
 Certificate of Proficiency English
 
 Feb 2019 – Jun 2019 
 Polyglot
-Minsk, Belarus
+Minsk, Belarus,
 Certificate A2 German
 
 Since Nov 2019 
 Postgraduate studies in N. N. ALEXANDROV National
-Cancer Centre
+Cancer Centre,
 Minsk, Belarus
 
 Coursera, IBM Skills Network "Introduction to data science" [Certificate](https://www.coursera.org/account/accomplishments/specialization/CLJSPQA2ZEN7)
