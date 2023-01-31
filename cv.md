@@ -28,6 +28,11 @@ _I've been working as a molecular oncologist for 6 years. A great part of my wor
 
 ## Code example
 ---
+```javascript
+function otherAngle(a, b) {
+  return 180-(a+b);
+};
+```
 
 ## Experience
 ---
