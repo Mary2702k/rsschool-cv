@@ -21,10 +21,9 @@ _I've been working as a molecular oncologist for 6 years. A great part of my wor
 
 ## Skills
 ---
-* HTML
-* CSS
-* JavaScript
-* Git
+* Web-development: HTML5, CSS3, JavaScript
+* Version control: Github
+* Graphics: Figma
 
 ## Code example
 ---
