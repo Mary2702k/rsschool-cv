@@ -69,6 +69,7 @@ Postgraduate studies in N. N. ALEXANDROV National
 Cancer Centre,
 Minsk, Belarus
 
+Oct 2022
 Coursera, IBM Skills Network "Introduction to data science" [Certificate](https://www.coursera.org/account/accomplishments/specialization/CLJSPQA2ZEN7)
 
 
