@@ -28,8 +28,16 @@ _I've been working as a molecular oncologist for 6 years. A great part of my wor
 ## Code example
 ---
 ```javascript
-function otherAngle(a, b) {
-  return 180-(a+b);
+function finalGrade (exam, projects) {
+  if (exam > 90 || projects > 10) {
+    return 100;
+  } else if (exam > 75 && projects >= 5){
+    return 90;
+  } else if (exam > 50 && projects >= 2){
+    return 75;
+  } else {
+    return 0;
+  }
 };
 ```
 
