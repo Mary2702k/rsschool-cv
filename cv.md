@@ -9,7 +9,7 @@
 
 ## About myself
 ---
-_I've been working as a molecular oncologist for 6 years. A great part of my work was dedicated to scientific research, were I learnt about different IT technologies. I was fascinated and  now I want to challenge myself and get a new occupation as a Frontend Developer._
+_I've been working as a molecular oncologist for 6 years. A great part of my work was dedicated to scientific research, where I've learnt about different IT technologies. I was fascinated and  now I want to challenge myself and get a new occupation as a Frontend Developer._
 
 ### My strenghts:
 * Research and experiments
