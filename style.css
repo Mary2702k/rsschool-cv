@@ -188,6 +188,34 @@ a:hover {
   border-radius: 50%;
 }
 
+/* Footer */
+
+.footer {
+  background-color: #829985;
+
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px 0px;
+}
+
+.footer_logo {
+  width: 100px;
+  height: 37px;
+  margin-top: 13px;
+}
+
+.year_container {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.year {
+  margin-left: 10px;
+}
+
 
  
 
