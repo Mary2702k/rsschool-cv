@@ -9,7 +9,7 @@
 
 ## About myself
 ---
-_I've been working as a molecular oncologist for 6 years. A great part of my work was dedicated to scientific research, were I learnt about different IT technologies. I was fascinated and  now I want to challenge myself and get a new occupation as a Frontend Developer._
+_I've been working as a molecular oncologist for 6 years. A great part of my work was dedicated to scientific research, where I've learnt about different IT technologies. I was fascinated and  now I want to challenge myself and get a new occupation as a Frontend Developer._
 
 ### My strenghts:
 * Research and experiments
@@ -21,16 +21,23 @@ _I've been working as a molecular oncologist for 6 years. A great part of my wor
 
 ## Skills
 ---
-* HTML
-* CSS
-* JavaScript
-* Git
+* Web-development: HTML5, CSS3, JavaScript
+* Version control: Git, Github
+* Graphics: Figma
 
 ## Code example
 ---
 ```javascript
-function otherAngle(a, b) {
-  return 180-(a+b);
+function finalGrade (exam, projects) {
+  if (exam > 90 || projects > 10) {
+    return 100;
+  } else if (exam > 75 && projects >= 5){
+    return 90;
+  } else if (exam > 50 && projects >= 2){
+    return 75;
+  } else {
+    return 0;
+  }
 };
 ```
 
@@ -62,6 +69,7 @@ Postgraduate studies in N. N. ALEXANDROV National
 Cancer Centre,
 Minsk, Belarus
 
+Oct 2022
 Coursera, IBM Skills Network "Introduction to data science" [Certificate](https://www.coursera.org/account/accomplishments/specialization/CLJSPQA2ZEN7)
 
 
