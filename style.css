@@ -13,6 +13,7 @@ body {
     font-size: 18px;
     font-weight: 400;
     line-height: 1.5;
+    color: #4d2323;
 }
 body {
     min-height: 100vh;
@@ -71,6 +72,7 @@ h3 {
   text-align: center;
   text-transform: uppercase;
 }
+
 .main-title::after {
   content: "";
   position: absolute;
@@ -150,16 +152,15 @@ a:hover {
 .section:first-child {
   position: unset;
 }
-.section::before {
-  content: "";
-  position: absolute;
-  top: 8px;
-  left: 0px;
-  width: 10px;
-  height: 10px; 
-  border: 1px solid #829985;
-  border-radius: 50%;
+
+#education, #languages {
+  border: 0;
 }
+
+.contact-list, .skills-list, .languages-list, .courses-list, .project-list {
+  list-style-type: circle;
+}
+
 /* Footer */
 .footer {
   background-color: #829985;
@@ -174,10 +175,21 @@ a:hover {
   height: 37px;
   margin-top: 13px;
 }
+
+.footer_logo:hover {
+  opacity: 0.5;
+}
 .year_container {
   display: flex;
   flex-direction: row-reverse;
+  align-items: center;
 }
 .year {
+  color: #4d2323;
   margin-left: 10px;
+}
+
+.footer-link {
+  color: #4d2323;
+  margin-left: 15px;
 }
